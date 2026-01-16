@@ -1,0 +1,970 @@
+"","X1","Year","Value","interpolated_value"
+"1","Alabama",2000,55.4,55.4
+"2","Alabama",2001,NA,55.76
+"3","Alabama",2002,NA,56.12
+"4","Alabama",2003,NA,56.48
+"5","Alabama",2004,NA,56.84
+"6","Alabama",2005,NA,57.2
+"7","Alabama",2006,NA,57.56
+"8","Alabama",2007,NA,57.92
+"9","Alabama",2008,NA,58.28
+"10","Alabama",2009,NA,58.64
+"11","Alabama",2010,59,59
+"12","Alabama",2011,NA,59.36
+"13","Alabama",2012,NA,59.72
+"14","Alabama",2013,NA,60.08
+"15","Alabama",2014,NA,60.44
+"16","Alabama",2015,NA,60.8
+"17","Alabama",2016,NA,61.16
+"18","Alabama",2017,NA,61.52
+"19","Alabama",2018,NA,61.88
+"20","Alaska",2000,65.6,65.6
+"21","Alaska",2001,NA,65.64
+"22","Alaska",2002,NA,65.68
+"23","Alaska",2003,NA,65.72
+"24","Alaska",2004,NA,65.76
+"25","Alaska",2005,NA,65.8
+"26","Alaska",2006,NA,65.84
+"27","Alaska",2007,NA,65.88
+"28","Alaska",2008,NA,65.92
+"29","Alaska",2009,NA,65.96
+"30","Alaska",2010,66,66
+"31","Alaska",2011,NA,66.04
+"32","Alaska",2012,NA,66.08
+"33","Alaska",2013,NA,66.12
+"34","Alaska",2014,NA,66.16
+"35","Alaska",2015,NA,66.2
+"36","Alaska",2016,NA,66.24
+"37","Alaska",2017,NA,66.28
+"38","Alaska",2018,NA,66.32
+"39","Arizona",2000,88.2,88.2
+"40","Arizona",2001,NA,88.36
+"41","Arizona",2002,NA,88.52
+"42","Arizona",2003,NA,88.68
+"43","Arizona",2004,NA,88.84
+"44","Arizona",2005,NA,89
+"45","Arizona",2006,NA,89.16
+"46","Arizona",2007,NA,89.32
+"47","Arizona",2008,NA,89.48
+"48","Arizona",2009,NA,89.64
+"49","Arizona",2010,89.8,89.8
+"50","Arizona",2011,NA,89.96
+"51","Arizona",2012,NA,90.12
+"52","Arizona",2013,NA,90.28
+"53","Arizona",2014,NA,90.44
+"54","Arizona",2015,NA,90.6
+"55","Arizona",2016,NA,90.76
+"56","Arizona",2017,NA,90.92
+"57","Arizona",2018,NA,91.08
+"58","Arkansas",2000,52.5,52.5
+"59","Arkansas",2001,NA,52.87
+"60","Arkansas",2002,NA,53.24
+"61","Arkansas",2003,NA,53.61
+"62","Arkansas",2004,NA,53.98
+"63","Arkansas",2005,NA,54.35
+"64","Arkansas",2006,NA,54.72
+"65","Arkansas",2007,NA,55.09
+"66","Arkansas",2008,NA,55.46
+"67","Arkansas",2009,NA,55.83
+"68","Arkansas",2010,56.2,56.2
+"69","Arkansas",2011,NA,56.57
+"70","Arkansas",2012,NA,56.94
+"71","Arkansas",2013,NA,57.31
+"72","Arkansas",2014,NA,57.68
+"73","Arkansas",2015,NA,58.05
+"74","Arkansas",2016,NA,58.42
+"75","Arkansas",2017,NA,58.79
+"76","Arkansas",2018,NA,59.16
+"77","California",2000,94.4,94.4
+"78","California",2001,NA,94.46
+"79","California",2002,NA,94.52
+"80","California",2003,NA,94.58
+"81","California",2004,NA,94.64
+"82","California",2005,NA,94.7
+"83","California",2006,NA,94.76
+"84","California",2007,NA,94.82
+"85","California",2008,NA,94.88
+"86","California",2009,NA,94.94
+"87","California",2010,95,95
+"88","California",2011,NA,95.06
+"89","California",2012,NA,95.12
+"90","California",2013,NA,95.18
+"91","California",2014,NA,95.24
+"92","California",2015,NA,95.3
+"93","California",2016,NA,95.36
+"94","California",2017,NA,95.42
+"95","California",2018,NA,95.48
+"96","Colorado",2000,84.5,84.5
+"97","Colorado",2001,NA,84.67
+"98","Colorado",2002,NA,84.84
+"99","Colorado",2003,NA,85.01
+"100","Colorado",2004,NA,85.18
+"101","Colorado",2005,NA,85.35
+"102","Colorado",2006,NA,85.52
+"103","Colorado",2007,NA,85.69
+"104","Colorado",2008,NA,85.86
+"105","Colorado",2009,NA,86.03
+"106","Colorado",2010,86.2,86.2
+"107","Colorado",2011,NA,86.37
+"108","Colorado",2012,NA,86.54
+"109","Colorado",2013,NA,86.71
+"110","Colorado",2014,NA,86.88
+"111","Colorado",2015,NA,87.05
+"112","Colorado",2016,NA,87.22
+"113","Colorado",2017,NA,87.39
+"114","Colorado",2018,NA,87.56
+"115","Connecticut",2000,87.7,87.7
+"116","Connecticut",2001,NA,87.73
+"117","Connecticut",2002,NA,87.76
+"118","Connecticut",2003,NA,87.79
+"119","Connecticut",2004,NA,87.82
+"120","Connecticut",2005,NA,87.85
+"121","Connecticut",2006,NA,87.88
+"122","Connecticut",2007,NA,87.91
+"123","Connecticut",2008,NA,87.94
+"124","Connecticut",2009,NA,87.97
+"125","Connecticut",2010,88,88
+"126","Connecticut",2011,NA,88.03
+"127","Connecticut",2012,NA,88.06
+"128","Connecticut",2013,NA,88.09
+"129","Connecticut",2014,NA,88.12
+"130","Connecticut",2015,NA,88.15
+"131","Connecticut",2016,NA,88.18
+"132","Connecticut",2017,NA,88.21
+"133","Connecticut",2018,NA,88.24
+"134","Delaware",2000,80.1,80.1
+"135","Delaware",2001,NA,80.42
+"136","Delaware",2002,NA,80.74
+"137","Delaware",2003,NA,81.06
+"138","Delaware",2004,NA,81.38
+"139","Delaware",2005,NA,81.7
+"140","Delaware",2006,NA,82.02
+"141","Delaware",2007,NA,82.34
+"142","Delaware",2008,NA,82.66
+"143","Delaware",2009,NA,82.98
+"144","Delaware",2010,83.3,83.3
+"145","Delaware",2011,NA,83.62
+"146","Delaware",2012,NA,83.94
+"147","Delaware",2013,NA,84.26
+"148","Delaware",2014,NA,84.58
+"149","Delaware",2015,NA,84.9
+"150","Delaware",2016,NA,85.22
+"151","Delaware",2017,NA,85.54
+"152","Delaware",2018,NA,85.86
+"153","Florida",2000,89.3,89.3
+"154","Florida",2001,NA,89.49
+"155","Florida",2002,NA,89.68
+"156","Florida",2003,NA,89.87
+"157","Florida",2004,NA,90.06
+"158","Florida",2005,NA,90.25
+"159","Florida",2006,NA,90.44
+"160","Florida",2007,NA,90.63
+"161","Florida",2008,NA,90.82
+"162","Florida",2009,NA,91.01
+"163","Florida",2010,91.2,91.2
+"164","Florida",2011,NA,91.39
+"165","Florida",2012,NA,91.58
+"166","Florida",2013,NA,91.77
+"167","Florida",2014,NA,91.96
+"168","Florida",2015,NA,92.15
+"169","Florida",2016,NA,92.34
+"170","Florida",2017,NA,92.53
+"171","Florida",2018,NA,92.72
+"172","Georgia",2000,71.6,71.6
+"173","Georgia",2001,NA,71.95
+"174","Georgia",2002,NA,72.3
+"175","Georgia",2003,NA,72.65
+"176","Georgia",2004,NA,73
+"177","Georgia",2005,NA,73.35
+"178","Georgia",2006,NA,73.7
+"179","Georgia",2007,NA,74.05
+"180","Georgia",2008,NA,74.4
+"181","Georgia",2009,NA,74.75
+"182","Georgia",2010,75.1,75.1
+"183","Georgia",2011,NA,75.45
+"184","Georgia",2012,NA,75.8
+"185","Georgia",2013,NA,76.15
+"186","Georgia",2014,NA,76.5
+"187","Georgia",2015,NA,76.85
+"188","Georgia",2016,NA,77.2
+"189","Georgia",2017,NA,77.55
+"190","Georgia",2018,NA,77.9
+"191","Hawaii",2000,91.5,91.5
+"192","Hawaii",2001,NA,91.54
+"193","Hawaii",2002,NA,91.58
+"194","Hawaii",2003,NA,91.62
+"195","Hawaii",2004,NA,91.66
+"196","Hawaii",2005,NA,91.7
+"197","Hawaii",2006,NA,91.74
+"198","Hawaii",2007,NA,91.78
+"199","Hawaii",2008,NA,91.82
+"200","Hawaii",2009,NA,91.86
+"201","Hawaii",2010,91.9,91.9
+"202","Hawaii",2011,NA,91.94
+"203","Hawaii",2012,NA,91.98
+"204","Hawaii",2013,NA,92.02
+"205","Hawaii",2014,NA,92.06
+"206","Hawaii",2015,NA,92.1
+"207","Hawaii",2016,NA,92.14
+"208","Hawaii",2017,NA,92.18
+"209","Hawaii",2018,NA,92.22
+"210","Idaho",2000,66.4,66.4
+"211","Idaho",2001,NA,66.82
+"212","Idaho",2002,NA,67.24
+"213","Idaho",2003,NA,67.66
+"214","Idaho",2004,NA,68.08
+"215","Idaho",2005,NA,68.5
+"216","Idaho",2006,NA,68.92
+"217","Idaho",2007,NA,69.34
+"218","Idaho",2008,NA,69.76
+"219","Idaho",2009,NA,70.18
+"220","Idaho",2010,70.6,70.6
+"221","Idaho",2011,NA,71.02
+"222","Idaho",2012,NA,71.44
+"223","Idaho",2013,NA,71.86
+"224","Idaho",2014,NA,72.28
+"225","Idaho",2015,NA,72.7
+"226","Idaho",2016,NA,73.12
+"227","Idaho",2017,NA,73.54
+"228","Idaho",2018,NA,73.96
+"229","Illinois",2000,87.8,87.8
+"230","Illinois",2001,NA,87.87
+"231","Illinois",2002,NA,87.94
+"232","Illinois",2003,NA,88.01
+"233","Illinois",2004,NA,88.08
+"234","Illinois",2005,NA,88.15
+"235","Illinois",2006,NA,88.22
+"236","Illinois",2007,NA,88.29
+"237","Illinois",2008,NA,88.36
+"238","Illinois",2009,NA,88.43
+"239","Illinois",2010,88.5,88.5
+"240","Illinois",2011,NA,88.57
+"241","Illinois",2012,NA,88.64
+"242","Illinois",2013,NA,88.71
+"243","Illinois",2014,NA,88.78
+"244","Illinois",2015,NA,88.85
+"245","Illinois",2016,NA,88.92
+"246","Illinois",2017,NA,88.99
+"247","Illinois",2018,NA,89.06
+"248","Indiana",2000,70.8,70.8
+"249","Indiana",2001,NA,70.96
+"250","Indiana",2002,NA,71.12
+"251","Indiana",2003,NA,71.28
+"252","Indiana",2004,NA,71.44
+"253","Indiana",2005,NA,71.6
+"254","Indiana",2006,NA,71.76
+"255","Indiana",2007,NA,71.92
+"256","Indiana",2008,NA,72.08
+"257","Indiana",2009,NA,72.24
+"258","Indiana",2010,72.4,72.4
+"259","Indiana",2011,NA,72.56
+"260","Indiana",2012,NA,72.72
+"261","Indiana",2013,NA,72.88
+"262","Indiana",2014,NA,73.04
+"263","Indiana",2015,NA,73.2
+"264","Indiana",2016,NA,73.36
+"265","Indiana",2017,NA,73.52
+"266","Indiana",2018,NA,73.68
+"267","Iowa",2000,61.1,61.1
+"268","Iowa",2001,NA,61.39
+"269","Iowa",2002,NA,61.68
+"270","Iowa",2003,NA,61.97
+"271","Iowa",2004,NA,62.26
+"272","Iowa",2005,NA,62.55
+"273","Iowa",2006,NA,62.84
+"274","Iowa",2007,NA,63.13
+"275","Iowa",2008,NA,63.42
+"276","Iowa",2009,NA,63.71
+"277","Iowa",2010,64,64
+"278","Iowa",2011,NA,64.29
+"279","Iowa",2012,NA,64.58
+"280","Iowa",2013,NA,64.87
+"281","Iowa",2014,NA,65.16
+"282","Iowa",2015,NA,65.45
+"283","Iowa",2016,NA,65.74
+"284","Iowa",2017,NA,66.03
+"285","Iowa",2018,NA,66.32
+"286","Kansas",2000,71.4,71.4
+"287","Kansas",2001,NA,71.68
+"288","Kansas",2002,NA,71.96
+"289","Kansas",2003,NA,72.24
+"290","Kansas",2004,NA,72.52
+"291","Kansas",2005,NA,72.8
+"292","Kansas",2006,NA,73.08
+"293","Kansas",2007,NA,73.36
+"294","Kansas",2008,NA,73.64
+"295","Kansas",2009,NA,73.92
+"296","Kansas",2010,74.2,74.2
+"297","Kansas",2011,NA,74.48
+"298","Kansas",2012,NA,74.76
+"299","Kansas",2013,NA,75.04
+"300","Kansas",2014,NA,75.32
+"301","Kansas",2015,NA,75.6
+"302","Kansas",2016,NA,75.88
+"303","Kansas",2017,NA,76.16
+"304","Kansas",2018,NA,76.44
+"305","Kentucky",2000,55.8,55.8
+"306","Kentucky",2001,NA,56.06
+"307","Kentucky",2002,NA,56.32
+"308","Kentucky",2003,NA,56.58
+"309","Kentucky",2004,NA,56.84
+"310","Kentucky",2005,NA,57.1
+"311","Kentucky",2006,NA,57.36
+"312","Kentucky",2007,NA,57.62
+"313","Kentucky",2008,NA,57.88
+"314","Kentucky",2009,NA,58.14
+"315","Kentucky",2010,58.4,58.4
+"316","Kentucky",2011,NA,58.66
+"317","Kentucky",2012,NA,58.92
+"318","Kentucky",2013,NA,59.18
+"319","Kentucky",2014,NA,59.44
+"320","Kentucky",2015,NA,59.7
+"321","Kentucky",2016,NA,59.96
+"322","Kentucky",2017,NA,60.22
+"323","Kentucky",2018,NA,60.48
+"324","Louisiana",2000,72.6,72.6
+"325","Louisiana",2001,NA,72.66
+"326","Louisiana",2002,NA,72.72
+"327","Louisiana",2003,NA,72.78
+"328","Louisiana",2004,NA,72.84
+"329","Louisiana",2005,NA,72.9
+"330","Louisiana",2006,NA,72.96
+"331","Louisiana",2007,NA,73.02
+"332","Louisiana",2008,NA,73.08
+"333","Louisiana",2009,NA,73.14
+"334","Louisiana",2010,73.2,73.2
+"335","Louisiana",2011,NA,73.26
+"336","Louisiana",2012,NA,73.32
+"337","Louisiana",2013,NA,73.38
+"338","Louisiana",2014,NA,73.44
+"339","Louisiana",2015,NA,73.5
+"340","Louisiana",2016,NA,73.56
+"341","Louisiana",2017,NA,73.62
+"342","Louisiana",2018,NA,73.68
+"343","Maine",2000,40.2,40.2
+"344","Maine",2001,NA,40.05
+"345","Maine",2002,NA,39.9
+"346","Maine",2003,NA,39.75
+"347","Maine",2004,NA,39.6
+"348","Maine",2005,NA,39.45
+"349","Maine",2006,NA,39.3
+"350","Maine",2007,NA,39.15
+"351","Maine",2008,NA,39
+"352","Maine",2009,NA,38.85
+"353","Maine",2010,38.7,38.7
+"354","Maine",2011,NA,38.55
+"355","Maine",2012,NA,38.4
+"356","Maine",2013,NA,38.25
+"357","Maine",2014,NA,38.1
+"358","Maine",2015,NA,37.95
+"359","Maine",2016,NA,37.8
+"360","Maine",2017,NA,37.65
+"361","Maine",2018,NA,37.5
+"362","Maryland",2000,86.1,86.1
+"363","Maryland",2001,NA,86.21
+"364","Maryland",2002,NA,86.32
+"365","Maryland",2003,NA,86.43
+"366","Maryland",2004,NA,86.54
+"367","Maryland",2005,NA,86.65
+"368","Maryland",2006,NA,86.76
+"369","Maryland",2007,NA,86.87
+"370","Maryland",2008,NA,86.98
+"371","Maryland",2009,NA,87.09
+"372","Maryland",2010,87.2,87.2
+"373","Maryland",2011,NA,87.31
+"374","Maryland",2012,NA,87.42
+"375","Maryland",2013,NA,87.53
+"376","Maryland",2014,NA,87.64
+"377","Maryland",2015,NA,87.75
+"378","Maryland",2016,NA,87.86
+"379","Maryland",2017,NA,87.97
+"380","Maryland",2018,NA,88.08
+"381","Massachusetts",2000,91.4,91.4
+"382","Massachusetts",2001,NA,91.46
+"383","Massachusetts",2002,NA,91.52
+"384","Massachusetts",2003,NA,91.58
+"385","Massachusetts",2004,NA,91.64
+"386","Massachusetts",2005,NA,91.7
+"387","Massachusetts",2006,NA,91.76
+"388","Massachusetts",2007,NA,91.82
+"389","Massachusetts",2008,NA,91.88
+"390","Massachusetts",2009,NA,91.94
+"391","Massachusetts",2010,92,92
+"392","Massachusetts",2011,NA,92.06
+"393","Massachusetts",2012,NA,92.12
+"394","Massachusetts",2013,NA,92.18
+"395","Massachusetts",2014,NA,92.24
+"396","Massachusetts",2015,NA,92.3
+"397","Massachusetts",2016,NA,92.36
+"398","Massachusetts",2017,NA,92.42
+"399","Massachusetts",2018,NA,92.48
+"400","Michigan",2000,74.7,74.7
+"401","Michigan",2001,NA,74.69
+"402","Michigan",2002,NA,74.68
+"403","Michigan",2003,NA,74.67
+"404","Michigan",2004,NA,74.66
+"405","Michigan",2005,NA,74.65
+"406","Michigan",2006,NA,74.64
+"407","Michigan",2007,NA,74.63
+"408","Michigan",2008,NA,74.62
+"409","Michigan",2009,NA,74.61
+"410","Michigan",2010,74.6,74.6
+"411","Michigan",2011,NA,74.59
+"412","Michigan",2012,NA,74.58
+"413","Michigan",2013,NA,74.57
+"414","Michigan",2014,NA,74.56
+"415","Michigan",2015,NA,74.55
+"416","Michigan",2016,NA,74.54
+"417","Michigan",2017,NA,74.53
+"418","Michigan",2018,NA,74.52
+"419","Minnesota",2000,70.9,70.9
+"420","Minnesota",2001,NA,71.14
+"421","Minnesota",2002,NA,71.38
+"422","Minnesota",2003,NA,71.62
+"423","Minnesota",2004,NA,71.86
+"424","Minnesota",2005,NA,72.1
+"425","Minnesota",2006,NA,72.34
+"426","Minnesota",2007,NA,72.58
+"427","Minnesota",2008,NA,72.82
+"428","Minnesota",2009,NA,73.06
+"429","Minnesota",2010,73.3,73.3
+"430","Minnesota",2011,NA,73.54
+"431","Minnesota",2012,NA,73.78
+"432","Minnesota",2013,NA,74.02
+"433","Minnesota",2014,NA,74.26
+"434","Minnesota",2015,NA,74.5
+"435","Minnesota",2016,NA,74.74
+"436","Minnesota",2017,NA,74.98
+"437","Minnesota",2018,NA,75.22
+"438","Mississippi",2000,48.8,48.8
+"439","Mississippi",2001,NA,48.86
+"440","Mississippi",2002,NA,48.92
+"441","Mississippi",2003,NA,48.98
+"442","Mississippi",2004,NA,49.04
+"443","Mississippi",2005,NA,49.1
+"444","Mississippi",2006,NA,49.16
+"445","Mississippi",2007,NA,49.22
+"446","Mississippi",2008,NA,49.28
+"447","Mississippi",2009,NA,49.34
+"448","Mississippi",2010,49.4,49.4
+"449","Mississippi",2011,NA,49.46
+"450","Mississippi",2012,NA,49.52
+"451","Mississippi",2013,NA,49.58
+"452","Mississippi",2014,NA,49.64
+"453","Mississippi",2015,NA,49.7
+"454","Mississippi",2016,NA,49.76
+"455","Mississippi",2017,NA,49.82
+"456","Mississippi",2018,NA,49.88
+"457","Missouri",2000,69.4,69.4
+"458","Missouri",2001,NA,69.5
+"459","Missouri",2002,NA,69.6
+"460","Missouri",2003,NA,69.7
+"461","Missouri",2004,NA,69.8
+"462","Missouri",2005,NA,69.9
+"463","Missouri",2006,NA,70
+"464","Missouri",2007,NA,70.1
+"465","Missouri",2008,NA,70.2
+"466","Missouri",2009,NA,70.3
+"467","Missouri",2010,70.4,70.4
+"468","Missouri",2011,NA,70.5
+"469","Missouri",2012,NA,70.6
+"470","Missouri",2013,NA,70.7
+"471","Missouri",2014,NA,70.8
+"472","Missouri",2015,NA,70.9
+"473","Missouri",2016,NA,71
+"474","Missouri",2017,NA,71.1
+"475","Missouri",2018,NA,71.2
+"476","Montana",2000,54.1,54.1
+"477","Montana",2001,NA,54.28
+"478","Montana",2002,NA,54.46
+"479","Montana",2003,NA,54.64
+"480","Montana",2004,NA,54.82
+"481","Montana",2005,NA,55
+"482","Montana",2006,NA,55.18
+"483","Montana",2007,NA,55.36
+"484","Montana",2008,NA,55.54
+"485","Montana",2009,NA,55.72
+"486","Montana",2010,55.9,55.9
+"487","Montana",2011,NA,56.08
+"488","Montana",2012,NA,56.26
+"489","Montana",2013,NA,56.44
+"490","Montana",2014,NA,56.62
+"491","Montana",2015,NA,56.8
+"492","Montana",2016,NA,56.98
+"493","Montana",2017,NA,57.16
+"494","Montana",2018,NA,57.34
+"495","Nebraska",2000,69.8,69.8
+"496","Nebraska",2001,NA,70.13
+"497","Nebraska",2002,NA,70.46
+"498","Nebraska",2003,NA,70.79
+"499","Nebraska",2004,NA,71.12
+"500","Nebraska",2005,NA,71.45
+"501","Nebraska",2006,NA,71.78
+"502","Nebraska",2007,NA,72.11
+"503","Nebraska",2008,NA,72.44
+"504","Nebraska",2009,NA,72.77
+"505","Nebraska",2010,73.1,73.1
+"506","Nebraska",2011,NA,73.43
+"507","Nebraska",2012,NA,73.76
+"508","Nebraska",2013,NA,74.09
+"509","Nebraska",2014,NA,74.42
+"510","Nebraska",2015,NA,74.75
+"511","Nebraska",2016,NA,75.08
+"512","Nebraska",2017,NA,75.41
+"513","Nebraska",2018,NA,75.74
+"514","Nevada",2000,91.5,91.5
+"515","Nevada",2001,NA,91.77
+"516","Nevada",2002,NA,92.04
+"517","Nevada",2003,NA,92.31
+"518","Nevada",2004,NA,92.58
+"519","Nevada",2005,NA,92.85
+"520","Nevada",2006,NA,93.12
+"521","Nevada",2007,NA,93.39
+"522","Nevada",2008,NA,93.66
+"523","Nevada",2009,NA,93.93
+"524","Nevada",2010,94.2,94.2
+"525","Nevada",2011,NA,94.47
+"526","Nevada",2012,NA,94.74
+"527","Nevada",2013,NA,95.01
+"528","Nevada",2014,NA,95.28
+"529","Nevada",2015,NA,95.55
+"530","Nevada",2016,NA,95.82
+"531","Nevada",2017,NA,96.09
+"532","Nevada",2018,NA,96.36
+"533","New Hampshire",2000,59.3,59.3
+"534","New Hampshire",2001,NA,59.4
+"535","New Hampshire",2002,NA,59.5
+"536","New Hampshire",2003,NA,59.6
+"537","New Hampshire",2004,NA,59.7
+"538","New Hampshire",2005,NA,59.8
+"539","New Hampshire",2006,NA,59.9
+"540","New Hampshire",2007,NA,60
+"541","New Hampshire",2008,NA,60.1
+"542","New Hampshire",2009,NA,60.2
+"543","New Hampshire",2010,60.3,60.3
+"544","New Hampshire",2011,NA,60.4
+"545","New Hampshire",2012,NA,60.5
+"546","New Hampshire",2013,NA,60.6
+"547","New Hampshire",2014,NA,60.7
+"548","New Hampshire",2015,NA,60.8
+"549","New Hampshire",2016,NA,60.9
+"550","New Hampshire",2017,NA,61
+"551","New Hampshire",2018,NA,61.1
+"552","New Jersey",2000,94.4,94.4
+"553","New Jersey",2001,NA,94.43
+"554","New Jersey",2002,NA,94.46
+"555","New Jersey",2003,NA,94.49
+"556","New Jersey",2004,NA,94.52
+"557","New Jersey",2005,NA,94.55
+"558","New Jersey",2006,NA,94.58
+"559","New Jersey",2007,NA,94.61
+"560","New Jersey",2008,NA,94.64
+"561","New Jersey",2009,NA,94.67
+"562","New Jersey",2010,94.7,94.7
+"563","New Jersey",2011,NA,94.73
+"564","New Jersey",2012,NA,94.76
+"565","New Jersey",2013,NA,94.79
+"566","New Jersey",2014,NA,94.82
+"567","New Jersey",2015,NA,94.85
+"568","New Jersey",2016,NA,94.88
+"569","New Jersey",2017,NA,94.91
+"570","New Jersey",2018,NA,94.94
+"571","New Mexico",2000,75,75
+"572","New Mexico",2001,NA,75.24
+"573","New Mexico",2002,NA,75.48
+"574","New Mexico",2003,NA,75.72
+"575","New Mexico",2004,NA,75.96
+"576","New Mexico",2005,NA,76.2
+"577","New Mexico",2006,NA,76.44
+"578","New Mexico",2007,NA,76.68
+"579","New Mexico",2008,NA,76.92
+"580","New Mexico",2009,NA,77.16
+"581","New Mexico",2010,77.4,77.4
+"582","New Mexico",2011,NA,77.64
+"583","New Mexico",2012,NA,77.88
+"584","New Mexico",2013,NA,78.12
+"585","New Mexico",2014,NA,78.36
+"586","New Mexico",2015,NA,78.6
+"587","New Mexico",2016,NA,78.84
+"588","New Mexico",2017,NA,79.08
+"589","New Mexico",2018,NA,79.32
+"590","New York",2000,87.5,87.5
+"591","New York",2001,NA,87.54
+"592","New York",2002,NA,87.58
+"593","New York",2003,NA,87.62
+"594","New York",2004,NA,87.66
+"595","New York",2005,NA,87.7
+"596","New York",2006,NA,87.74
+"597","New York",2007,NA,87.78
+"598","New York",2008,NA,87.82
+"599","New York",2009,NA,87.86
+"600","New York",2010,87.9,87.9
+"601","New York",2011,NA,87.94
+"602","New York",2012,NA,87.98
+"603","New York",2013,NA,88.02
+"604","New York",2014,NA,88.06
+"605","New York",2015,NA,88.1
+"606","New York",2016,NA,88.14
+"607","New York",2017,NA,88.18
+"608","New York",2018,NA,88.22
+"609","North Carolina",2000,60.2,60.2
+"610","North Carolina",2001,NA,60.79
+"611","North Carolina",2002,NA,61.38
+"612","North Carolina",2003,NA,61.97
+"613","North Carolina",2004,NA,62.56
+"614","North Carolina",2005,NA,63.15
+"615","North Carolina",2006,NA,63.74
+"616","North Carolina",2007,NA,64.33
+"617","North Carolina",2008,NA,64.92
+"618","North Carolina",2009,NA,65.51
+"619","North Carolina",2010,66.1,66.1
+"620","North Carolina",2011,NA,66.69
+"621","North Carolina",2012,NA,67.28
+"622","North Carolina",2013,NA,67.87
+"623","North Carolina",2014,NA,68.46
+"624","North Carolina",2015,NA,69.05
+"625","North Carolina",2016,NA,69.64
+"626","North Carolina",2017,NA,70.23
+"627","North Carolina",2018,NA,70.82
+"628","North Dakota",2000,55.9,55.9
+"629","North Dakota",2001,NA,56.3
+"630","North Dakota",2002,NA,56.7
+"631","North Dakota",2003,NA,57.1
+"632","North Dakota",2004,NA,57.5
+"633","North Dakota",2005,NA,57.9
+"634","North Dakota",2006,NA,58.3
+"635","North Dakota",2007,NA,58.7
+"636","North Dakota",2008,NA,59.1
+"637","North Dakota",2009,NA,59.5
+"638","North Dakota",2010,59.9,59.9
+"639","North Dakota",2011,NA,60.3
+"640","North Dakota",2012,NA,60.7
+"641","North Dakota",2013,NA,61.1
+"642","North Dakota",2014,NA,61.5
+"643","North Dakota",2015,NA,61.9
+"644","North Dakota",2016,NA,62.3
+"645","North Dakota",2017,NA,62.7
+"646","North Dakota",2018,NA,63.1
+"647","Ohio",2000,77.4,77.4
+"648","Ohio",2001,NA,77.45
+"649","Ohio",2002,NA,77.5
+"650","Ohio",2003,NA,77.55
+"651","Ohio",2004,NA,77.6
+"652","Ohio",2005,NA,77.65
+"653","Ohio",2006,NA,77.7
+"654","Ohio",2007,NA,77.75
+"655","Ohio",2008,NA,77.8
+"656","Ohio",2009,NA,77.85
+"657","Ohio",2010,77.9,77.9
+"658","Ohio",2011,NA,77.95
+"659","Ohio",2012,NA,78
+"660","Ohio",2013,NA,78.05
+"661","Ohio",2014,NA,78.1
+"662","Ohio",2015,NA,78.15
+"663","Ohio",2016,NA,78.2
+"664","Ohio",2017,NA,78.25
+"665","Ohio",2018,NA,78.3
+"666","Oklahoma",2000,65.3,65.3
+"667","Oklahoma",2001,NA,65.39
+"668","Oklahoma",2002,NA,65.48
+"669","Oklahoma",2003,NA,65.57
+"670","Oklahoma",2004,NA,65.66
+"671","Oklahoma",2005,NA,65.75
+"672","Oklahoma",2006,NA,65.84
+"673","Oklahoma",2007,NA,65.93
+"674","Oklahoma",2008,NA,66.02
+"675","Oklahoma",2009,NA,66.11
+"676","Oklahoma",2010,66.2,66.2
+"677","Oklahoma",2011,NA,66.29
+"678","Oklahoma",2012,NA,66.38
+"679","Oklahoma",2013,NA,66.47
+"680","Oklahoma",2014,NA,66.56
+"681","Oklahoma",2015,NA,66.65
+"682","Oklahoma",2016,NA,66.74
+"683","Oklahoma",2017,NA,66.83
+"684","Oklahoma",2018,NA,66.92
+"685","Oregon",2000,78.7,78.7
+"686","Oregon",2001,NA,78.93
+"687","Oregon",2002,NA,79.16
+"688","Oregon",2003,NA,79.39
+"689","Oregon",2004,NA,79.62
+"690","Oregon",2005,NA,79.85
+"691","Oregon",2006,NA,80.08
+"692","Oregon",2007,NA,80.31
+"693","Oregon",2008,NA,80.54
+"694","Oregon",2009,NA,80.77
+"695","Oregon",2010,81,81
+"696","Oregon",2011,NA,81.23
+"697","Oregon",2012,NA,81.46
+"698","Oregon",2013,NA,81.69
+"699","Oregon",2014,NA,81.92
+"700","Oregon",2015,NA,82.15
+"701","Oregon",2016,NA,82.38
+"702","Oregon",2017,NA,82.61
+"703","Oregon",2018,NA,82.84
+"704","Pennsylvania",2000,77.1,77.1
+"705","Pennsylvania",2001,NA,77.26
+"706","Pennsylvania",2002,NA,77.42
+"707","Pennsylvania",2003,NA,77.58
+"708","Pennsylvania",2004,NA,77.74
+"709","Pennsylvania",2005,NA,77.9
+"710","Pennsylvania",2006,NA,78.06
+"711","Pennsylvania",2007,NA,78.22
+"712","Pennsylvania",2008,NA,78.38
+"713","Pennsylvania",2009,NA,78.54
+"714","Pennsylvania",2010,78.7,78.7
+"715","Pennsylvania",2011,NA,78.86
+"716","Pennsylvania",2012,NA,79.02
+"717","Pennsylvania",2013,NA,79.18
+"718","Pennsylvania",2014,NA,79.34
+"719","Pennsylvania",2015,NA,79.5
+"720","Pennsylvania",2016,NA,79.66
+"721","Pennsylvania",2017,NA,79.82
+"722","Pennsylvania",2018,NA,79.98
+"723","Rhode Island",2000,90.9,90.9
+"724","Rhode Island",2001,NA,90.88
+"725","Rhode Island",2002,NA,90.86
+"726","Rhode Island",2003,NA,90.84
+"727","Rhode Island",2004,NA,90.82
+"728","Rhode Island",2005,NA,90.8
+"729","Rhode Island",2006,NA,90.78
+"730","Rhode Island",2007,NA,90.76
+"731","Rhode Island",2008,NA,90.74
+"732","Rhode Island",2009,NA,90.72
+"733","Rhode Island",2010,90.7,90.7
+"734","Rhode Island",2011,NA,90.68
+"735","Rhode Island",2012,NA,90.66
+"736","Rhode Island",2013,NA,90.64
+"737","Rhode Island",2014,NA,90.62
+"738","Rhode Island",2015,NA,90.6
+"739","Rhode Island",2016,NA,90.58
+"740","Rhode Island",2017,NA,90.56
+"741","Rhode Island",2018,NA,90.54
+"742","South Carolina",2000,60.5,60.5
+"743","South Carolina",2001,NA,61.08
+"744","South Carolina",2002,NA,61.66
+"745","South Carolina",2003,NA,62.24
+"746","South Carolina",2004,NA,62.82
+"747","South Carolina",2005,NA,63.4
+"748","South Carolina",2006,NA,63.98
+"749","South Carolina",2007,NA,64.56
+"750","South Carolina",2008,NA,65.14
+"751","South Carolina",2009,NA,65.72
+"752","South Carolina",2010,66.3,66.3
+"753","South Carolina",2011,NA,66.88
+"754","South Carolina",2012,NA,67.46
+"755","South Carolina",2013,NA,68.04
+"756","South Carolina",2014,NA,68.62
+"757","South Carolina",2015,NA,69.2
+"758","South Carolina",2016,NA,69.78
+"759","South Carolina",2017,NA,70.36
+"760","South Carolina",2018,NA,70.94
+"761","South Dakota",2000,51.9,51.9
+"762","South Dakota",2001,NA,52.38
+"763","South Dakota",2002,NA,52.86
+"764","South Dakota",2003,NA,53.34
+"765","South Dakota",2004,NA,53.82
+"766","South Dakota",2005,NA,54.3
+"767","South Dakota",2006,NA,54.78
+"768","South Dakota",2007,NA,55.26
+"769","South Dakota",2008,NA,55.74
+"770","South Dakota",2009,NA,56.22
+"771","South Dakota",2010,56.7,56.7
+"772","South Dakota",2011,NA,57.18
+"773","South Dakota",2012,NA,57.66
+"774","South Dakota",2013,NA,58.14
+"775","South Dakota",2014,NA,58.62
+"776","South Dakota",2015,NA,59.1
+"777","South Dakota",2016,NA,59.58
+"778","South Dakota",2017,NA,60.06
+"779","South Dakota",2018,NA,60.54
+"780","Tennessee",2000,63.6,63.6
+"781","Tennessee",2001,NA,63.88
+"782","Tennessee",2002,NA,64.16
+"783","Tennessee",2003,NA,64.44
+"784","Tennessee",2004,NA,64.72
+"785","Tennessee",2005,NA,65
+"786","Tennessee",2006,NA,65.28
+"787","Tennessee",2007,NA,65.56
+"788","Tennessee",2008,NA,65.84
+"789","Tennessee",2009,NA,66.12
+"790","Tennessee",2010,66.4,66.4
+"791","Tennessee",2011,NA,66.68
+"792","Tennessee",2012,NA,66.96
+"793","Tennessee",2013,NA,67.24
+"794","Tennessee",2014,NA,67.52
+"795","Tennessee",2015,NA,67.8
+"796","Tennessee",2016,NA,68.08
+"797","Tennessee",2017,NA,68.36
+"798","Tennessee",2018,NA,68.64
+"799","Texas",2000,82.5,82.5
+"800","Texas",2001,NA,82.72
+"801","Texas",2002,NA,82.94
+"802","Texas",2003,NA,83.16
+"803","Texas",2004,NA,83.38
+"804","Texas",2005,NA,83.6
+"805","Texas",2006,NA,83.82
+"806","Texas",2007,NA,84.04
+"807","Texas",2008,NA,84.26
+"808","Texas",2009,NA,84.48
+"809","Texas",2010,84.7,84.7
+"810","Texas",2011,NA,84.92
+"811","Texas",2012,NA,85.14
+"812","Texas",2013,NA,85.36
+"813","Texas",2014,NA,85.58
+"814","Texas",2015,NA,85.8
+"815","Texas",2016,NA,86.02
+"816","Texas",2017,NA,86.24
+"817","Texas",2018,NA,86.46
+"818","United States",2000,79,79
+"819","United States",2001,NA,79.17
+"820","United States",2002,NA,79.34
+"821","United States",2003,NA,79.51
+"822","United States",2004,NA,79.68
+"823","United States",2005,NA,79.85
+"824","United States",2006,NA,80.02
+"825","United States",2007,NA,80.19
+"826","United States",2008,NA,80.36
+"827","United States",2009,NA,80.53
+"828","United States",2010,80.7,80.7
+"829","United States",2011,NA,80.87
+"830","United States",2012,NA,81.04
+"831","United States",2013,NA,81.21
+"832","United States",2014,NA,81.38
+"833","United States",2015,NA,81.55
+"834","United States",2016,NA,81.72
+"835","United States",2017,NA,81.89
+"836","United States",2018,NA,82.06
+"837","Utah",2000,88.2,88.2
+"838","Utah",2001,NA,88.44
+"839","Utah",2002,NA,88.68
+"840","Utah",2003,NA,88.92
+"841","Utah",2004,NA,89.16
+"842","Utah",2005,NA,89.4
+"843","Utah",2006,NA,89.64
+"844","Utah",2007,NA,89.88
+"845","Utah",2008,NA,90.12
+"846","Utah",2009,NA,90.36
+"847","Utah",2010,90.6,90.6
+"848","Utah",2011,NA,90.84
+"849","Utah",2012,NA,91.08
+"850","Utah",2013,NA,91.32
+"851","Utah",2014,NA,91.56
+"852","Utah",2015,NA,91.8
+"853","Utah",2016,NA,92.04
+"854","Utah",2017,NA,92.28
+"855","Utah",2018,NA,92.52
+"856","Vermont",2000,38.2,38.2
+"857","Vermont",2001,NA,38.27
+"858","Vermont",2002,NA,38.34
+"859","Vermont",2003,NA,38.41
+"860","Vermont",2004,NA,38.48
+"861","Vermont",2005,NA,38.55
+"862","Vermont",2006,NA,38.62
+"863","Vermont",2007,NA,38.69
+"864","Vermont",2008,NA,38.76
+"865","Vermont",2009,NA,38.83
+"866","Vermont",2010,38.9,38.9
+"867","Vermont",2011,NA,38.97
+"868","Vermont",2012,NA,39.04
+"869","Vermont",2013,NA,39.11
+"870","Vermont",2014,NA,39.18
+"871","Vermont",2015,NA,39.25
+"872","Vermont",2016,NA,39.32
+"873","Vermont",2017,NA,39.39
+"874","Vermont",2018,NA,39.46
+"875","Virginia",2000,73,73
+"876","Virginia",2001,NA,73.25
+"877","Virginia",2002,NA,73.5
+"878","Virginia",2003,NA,73.75
+"879","Virginia",2004,NA,74
+"880","Virginia",2005,NA,74.25
+"881","Virginia",2006,NA,74.5
+"882","Virginia",2007,NA,74.75
+"883","Virginia",2008,NA,75
+"884","Virginia",2009,NA,75.25
+"885","Virginia",2010,75.5,75.5
+"886","Virginia",2011,NA,75.75
+"887","Virginia",2012,NA,76
+"888","Virginia",2013,NA,76.25
+"889","Virginia",2014,NA,76.5
+"890","Virginia",2015,NA,76.75
+"891","Virginia",2016,NA,77
+"892","Virginia",2017,NA,77.25
+"893","Virginia",2018,NA,77.5
+"894","Washington",2000,82,82
+"895","Washington",2001,NA,82.21
+"896","Washington",2002,NA,82.42
+"897","Washington",2003,NA,82.63
+"898","Washington",2004,NA,82.84
+"899","Washington",2005,NA,83.05
+"900","Washington",2006,NA,83.26
+"901","Washington",2007,NA,83.47
+"902","Washington",2008,NA,83.68
+"903","Washington",2009,NA,83.89
+"904","Washington",2010,84.1,84.1
+"905","Washington",2011,NA,84.31
+"906","Washington",2012,NA,84.52
+"907","Washington",2013,NA,84.73
+"908","Washington",2014,NA,84.94
+"909","Washington",2015,NA,85.15
+"910","Washington",2016,NA,85.36
+"911","Washington",2017,NA,85.57
+"912","Washington",2018,NA,85.78
+"913","West Virginia",2000,46.1,46.1
+"914","West Virginia",2001,NA,46.36
+"915","West Virginia",2002,NA,46.62
+"916","West Virginia",2003,NA,46.88
+"917","West Virginia",2004,NA,47.14
+"918","West Virginia",2005,NA,47.4
+"919","West Virginia",2006,NA,47.66
+"920","West Virginia",2007,NA,47.92
+"921","West Virginia",2008,NA,48.18
+"922","West Virginia",2009,NA,48.44
+"923","West Virginia",2010,48.7,48.7
+"924","West Virginia",2011,NA,48.96
+"925","West Virginia",2012,NA,49.22
+"926","West Virginia",2013,NA,49.48
+"927","West Virginia",2014,NA,49.74
+"928","West Virginia",2015,NA,50
+"929","West Virginia",2016,NA,50.26
+"930","West Virginia",2017,NA,50.52
+"931","West Virginia",2018,NA,50.78
+"932","Wisconsin",2000,68.3,68.3
+"933","Wisconsin",2001,NA,68.49
+"934","Wisconsin",2002,NA,68.68
+"935","Wisconsin",2003,NA,68.87
+"936","Wisconsin",2004,NA,69.06
+"937","Wisconsin",2005,NA,69.25
+"938","Wisconsin",2006,NA,69.44
+"939","Wisconsin",2007,NA,69.63
+"940","Wisconsin",2008,NA,69.82
+"941","Wisconsin",2009,NA,70.01
+"942","Wisconsin",2010,70.2,70.2
+"943","Wisconsin",2011,NA,70.39
+"944","Wisconsin",2012,NA,70.58
+"945","Wisconsin",2013,NA,70.77
+"946","Wisconsin",2014,NA,70.96
+"947","Wisconsin",2015,NA,71.15
+"948","Wisconsin",2016,NA,71.34
+"949","Wisconsin",2017,NA,71.53
+"950","Wisconsin",2018,NA,71.72
+"951","Wyoming",2000,65.1,65.1
+"952","Wyoming",2001,NA,65.07
+"953","Wyoming",2002,NA,65.04
+"954","Wyoming",2003,NA,65.01
+"955","Wyoming",2004,NA,64.98
+"956","Wyoming",2005,NA,64.95
+"957","Wyoming",2006,NA,64.92
+"958","Wyoming",2007,NA,64.89
+"959","Wyoming",2008,NA,64.86
+"960","Wyoming",2009,NA,64.83
+"961","Wyoming",2010,64.8,64.8
+"962","Wyoming",2011,NA,64.77
+"963","Wyoming",2012,NA,64.74
+"964","Wyoming",2013,NA,64.71
+"965","Wyoming",2014,NA,64.68
+"966","Wyoming",2015,NA,64.65
+"967","Wyoming",2016,NA,64.62
+"968","Wyoming",2017,NA,64.59
+"969","Wyoming",2018,NA,64.56
