@@ -14,8 +14,12 @@ Since the individual state-level indicators are highly correlated with each othe
 The repository contains two main folders: 
 
 + `code/`
-   - `t
+   - `index reliability coefficient analysis.R`
+   - `linear spline interpolation of urbanicity.R`
 + `data/`
+   - `combined + transformed data files/`
+      - `combined_population_heterogeneity_index_with_urban_2000-2018.csv`
+      - `combined_poverty_index_2000-2018.csv`      
 
 ### A. Composition of the Poverty Index 
 
