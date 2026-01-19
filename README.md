@@ -13,9 +13,9 @@ Since the individual state-level indicators are highly correlated with each othe
 
 The repository contains two main folders: 
 
-+ `code`
-+   - `t
-+ `data`
++ `code/`
+   - `t
++ `data/`
 
 ### A. Composition of the Poverty Index 
 
