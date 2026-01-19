@@ -8,20 +8,27 @@
 
 #racial inequalities in those differences 
 
-This repository is for making several compiled state-level sociodemographic indicators publicly available for use in panel (including time series and cross-sectional) analyses covering within-variation in U.S. states across the last two decades (2000 to 2018). 
+This repository is for making several compiled state-level sociodemographic indicators publicly available for use as panel datasets. Panel observations cover all 50 U.S states and the country as a whole, updated for the last two decades (2000 to 2018). 
 
-All aspects of the criminal legal system—policing, probation, prisons/jails/detention centers, and other forms of social control/intervention
+The indicators track state-level socieconomic deprivation and population heterogeneity, and were originally compiled to support research estimating the conditional effects of mass punishment rates (e.g., incarceration/probation/parole) by accounting for commonly omitted confounders,[^1] but the indicators can also act as key predicators or outcome variables ipso facto. Because the indicators track 
 
+
+
+
+and represent panels of comprehensive of variables that
+
+other aspects of the criminal legal system, and/or 
 
 The indicators are well-suited for panel studies of social inequality across state populations, and were originally compiled as covariates to adjust for ommitted variable bias, but they can also act as key predicators and outcome variables ipso facto. track national too
 
 topics: policing, immmigration 
 
-The indicators were originally compiled to support research estimating the conditional effects of mass punishment rates (e.g., incarceration/probation/parole) at the state-level, and represent panels of comprehensive of variables that
 
 Since the individual state-level indicators are highly correlated with each other, introducing them separately into models may introduce unwelcome problems of multicollinearity. The individual-indicators are therefore leveraged as two combined scales: a poverty index (α = 0.73) and a population heterogeneity index (α = 0.88).
 
 All panel datasets are **balanced** and arranged in the **long format**, unless otherwise noted. 
+
+[^1] For example, endogeneity can occur between incarceration rates and popular dependent variables, like household wealth or health outcomes, when a confounder such educational attainment is unaccounted for. 
 
 ## Repository Structure
 
@@ -49,7 +56,7 @@ The repository contains two main folders:
 
 ### A. Composition of the Poverty Index 
 
-The poverty index consists of (1) low educational attainment, operationalized by the population of those at least 25 years old with less than a high school education (decimal %), (2) the Black resident population (decimal %), (3) state residents (as individuals) that are 138% at or below the federal poverty threshold (decimal %), (4) TANF caseloads (per 1000 state residents), and (5) GINI coefficients. All data extend between the years 2002 to 2018 for total national estimates and for all 50 U.S. states, although in the raw data files, data for 2000 and 2001 is included as well. 
+The poverty index consists of (1) low educational attainment, operationalized by the population of those at least 25 years old with less than a high school education (decimal %), (2) the Black resident population (decimal %), (3) state residents (as individuals) that are 138% at or below the federal poverty threshold (decimal %), (4) TANF caseloads (per 1000 state residents), and (5) GINI coefficients. All data extend between the years 2000 to 2018 for total national estimates and for all 50 U.S. states.
 
 **A1.** For indicator 1, the following sources were used: U.S. Department of Commerce, Census Bureau: Census Briefs, Educational Attainment; and American Community Survey (ACS) 1-Year data accessed through the Integrated Public Use Microdata Series (IPUMS).
 
