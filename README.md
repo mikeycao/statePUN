@@ -20,6 +20,8 @@ and represent panels of comprehensive of variables that other aspects of the cri
 
 topics: policing, immmigration 
 
+DESCRIPTIVE 
+
 
 Since the individual state-level indicators are highly correlated with each other, introducing them separately into models may introduce unwelcome problems of multicollinearity. The individual-indicators are therefore leveraged as two combined scales: a poverty index (α = 0.73) and a population heterogeneity index (α = 0.88).
 
