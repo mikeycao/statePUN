@@ -28,7 +28,7 @@ Since the individual state-level indicators are highly correlated with each othe
 
 All panel datasets are **balanced** and arranged in the **long format**, unless otherwise noted. 
 
-[^1] For example, endogeneity can occur between incarceration rates and popular dependent variables, like household wealth or health outcomes, when a confounder such educational attainment is unaccounted for. 
+[^1]: For example, endogeneity can occur between incarceration rates and popular dependent variables, like household wealth or mortality, when a confounder such as educational attainment is unaccounted for. 
 
 ## Repository Structure
 
