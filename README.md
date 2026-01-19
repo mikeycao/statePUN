@@ -2,13 +2,13 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 
-<img width="180" align="right" alt="statePUN_logo" src="https://github.com/user-attachments/assets/bf5e5ca7-bbb3-4a7c-94ac-94d7b75e3cc9" />
+<img width="180" align="right" alt="statePUN_logo" src="https://github.com/user-attachments/assets/85c68b77-3925-4481-a18b-0a5e15cd7dde" />
 
 # statePUN: State-level panel covariates for estimating mass punishment and sociodemographic disparity, 2000–2018
 
 #racial inequalities in those differences 
 
-This repository is for making several compiled state-level sociodemographic indicators publicly available for use in panel (or cross-sectional) analyses covering within-variation in U.S. states across the last two decades (2000 to 2018). 
+This repository is for making several compiled state-level sociodemographic indicators publicly available for use in panel (including time series and cross-sectional) analyses covering within-variation in U.S. states across the last two decades (2000 to 2018). 
 
 All aspects of the criminal legal system—policing, probation, prisons/jails/detention centers, and other forms of social control/intervention
 
