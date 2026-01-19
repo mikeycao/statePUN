@@ -11,6 +11,8 @@ This repository is for making several compiled state-level sociodemographic indi
 
 The indicators are well-suited for panel studies of social inequality across state populations, and were originally compiled as covariates to adjust for ommitted variable bias, but they can also act as key predicators and outcome variables ipso facto. track national too
 
+topics: policing, immmigration 
+
 The indicators were originally compiled to support research estimating the conditional effects of mass punishment rates (e.g., incarceration/probation/parole) at the state-level, and represent panels of comprehensive of variables that
 
 Since the individual state-level indicators are highly correlated with each other, introducing them separately into models may introduce unwelcome problems of multicollinearity. The individual-indicators are therefore leveraged as two combined scales: a poverty index (α = 0.73) and a population heterogeneity index (α = 0.88).
