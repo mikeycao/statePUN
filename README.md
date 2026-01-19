@@ -2,7 +2,7 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 
-<img width="180" align="right" alt="statePUN_logo" src="https://github.com/user-attachments/assets/2f028c39-5241-4e12-9927-9cec1f15f630" />
+<img width="180" align="right" alt="statePUN_logo" src="https://github.com/user-attachments/assets/bf5e5ca7-bbb3-4a7c-94ac-94d7b75e3cc9" />
 
 # statePUN: State-level panel covariates for estimating mass punishment and sociodemographic disparity, 2000–2018
 
