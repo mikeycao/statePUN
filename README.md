@@ -42,7 +42,7 @@ The repository contains two main folders:
          - `(3) urbanicity_interpolated.csv`
          - `PRE_spline_interpolation_urban_wide` 
 
-CRIME = per 100k inhabitants
+CRIME = per 100k inhabitants, offense
 
 ### A. Composition of the Poverty Index 
 
