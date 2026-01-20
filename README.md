@@ -29,13 +29,13 @@ The repository contains two main folders:
    - `combined data files/`: 
       - `(A) combined_poverty_index.csv`: composite poverty index after individual indicators were combined and standardized, arranged in the long format in anticipation of ad hoc data processing/manipulation
       - `(B) combined_population_heterogeneity_index_with_urbanicity.csv`: composite population heterogeneity index after individual indicators were combined and standardized, arranged in the long format in anticipation of ad hoc data processing/manipulation
-   - `individual data files/`
+   - `individual data files/`: indicator panel datasets arranged for individual analysis
       - `(A) poverty index data/`
-         - `(1) low_educ_attainment.csv`
-         - `(2) Black_population.csv`
-         - `(3) population_poverty.csv`
-         - `(4) TANF.csv`
-         - `(5) GINI_coefficients.csv`
+         - `(1) low_educ_attainment.csv`: low educational attainment (% of state population)
+         - `(2) Black_population.csv`: Black population (% of state population) 
+         - `(3) population_poverty.csv`: below federal poverty threshold (% of state population)
+         - `(4) TANF.csv`: Temporary Assistance for Needy Families (TANF) caseloads (per 1000 of state population) 
+         - `(5) Gini_coefficients.csv`: Gini coefficients 
       - `(B) population heterogeneity index data/`
          - `(1) foreign_born_population.csv`
          - `(2) Hispanic_population.csv`
@@ -44,7 +44,7 @@ The repository contains two main folders:
 
 ### A. Composition of the Poverty Index 
 
-The poverty index consists of (1) low educational attainment, operationalized by the population of those at least 25 years old with less than a high school education (decimal %), (2) the Black resident population (decimal %), (3) state residents (as individuals) that are 138% at or below the federal poverty threshold (decimal %), (4) TANF caseloads (per 1000 state residents), and (5) GINI coefficients. All data extend between the years 2000 to 2018 for total national estimates and for all 50 U.S. states.
+The poverty index consists of (1) low educational attainment, operationalized by the population of those at least 25 years old with less than a high school education (decimal %), (2) the Black resident population (decimal %), (3) state residents (as individuals) that are 138% at or below the federal poverty threshold (decimal %), (4) Temporary Assistance for Needy Families (TANF) caseloads (per 1000 state residents), and (5) GINI coefficients. All data extend between the years 2000 to 2018 for total national estimates and for all 50 U.S. states.
 
 **A1.** For indicator 1, the following sources were used: U.S. Department of Commerce, Census Bureau: Census Briefs, Educational Attainment; and American Community Survey (ACS) 1-Year data accessed through the Integrated Public Use Microdata Series (IPUMS).
 
