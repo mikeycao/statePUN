@@ -14,7 +14,7 @@ On their own, the panel datasets are intended as public tools for summarizing th
 
 Since the individual state-level indicators are highly correlated with each other, introducing them separately into models may introduce unwelcome problems of multicollinearity. The individual-indicators are therefore leveraged as two combined scales: a poverty index (α = 0.73) and a population heterogeneity index (α = 0.88).
 
-All panel datasets are **balanced** and arranged in the **long format**, unless otherwise noted. 
+All panel datasets are **balanced** and arranged in the **wide format** for understanding the dimensionality of the data, unless otherwise noted. 
 
 [^1]: For example, endogeneity can occur between incarceration rates and popular dependent variables, like household wealth or mortality, when a confounder such as educational attainment is omitted from estimates. 
 
@@ -27,8 +27,8 @@ The repository contains two main folders:
    - `linear spline interpolation of urbanicity.R`
 + `data/`
    - `combined + transformed data files/`
-      - `(A) combined_poverty_index.csv`      
-      - `(B) combined_population_heterogeneity_index_with_urbanicity.csv`
+      - `(A) combined_poverty_index.csv`      (LONG)
+      - `(B) combined_population_heterogeneity_index_with_urbanicity.csv`   (LONG) 
    - `individual data files/`
       - `(A) poverty index data/`
          - `(1) low_educ_attainment.csv`
