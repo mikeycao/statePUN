@@ -42,6 +42,8 @@ The repository contains two main folders:
          - `(3) urbanicity_interpolated.csv`
          - `PRE_spline_interpolation_urban_wide` 
 
+CRIME = per 100k inhabitants
+
 ### A. Composition of the Poverty Index 
 
 The poverty index consists of (1) low educational attainment, operationalized by the population of those at least 25 years old with less than a high school education (decimal %), (2) the Black resident population (decimal %), (3) state residents (as individuals) that are 138% at or below the federal poverty threshold (decimal %), (4) TANF caseloads (per 1000 state residents), and (5) GINI coefficients. All data extend between the years 2000 to 2018 for total national estimates and for all 50 U.S. states.
