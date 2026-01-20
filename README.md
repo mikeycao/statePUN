@@ -25,10 +25,10 @@ The repository contains two main folders:
 + `code/`: contains `R scripts` accompanying the data
    - `index reliability coefficient analysis.R`: code for reproducing reliability coefficients for the two indices 
    - `linear spline interpolation of urbanicity.R`: code for reproducing the interpolation of urbanicity (data/individual data files/(B) population heterogeneity index data/PRE_spline_interpolation_urban.csv)
-+ `data/`
-   - `combined + transformed data files/`
-      - `(A) combined_poverty_index.csv`      (LONG)
-      - `(B) combined_population_heterogeneity_index_with_urbanicity.csv`   (LONG) 
++ `data/`: harmonized panel data for all 50 U.S. states, 2000-2018
+   - `combined data files/`: 
+      - `(A) combined_poverty_index.csv`: composite poverty index after individual indicators were combined and standardized, arranged in the long format in anticipation of ad hoc data processing/manipulation
+      - `(B) combined_population_heterogeneity_index_with_urbanicity.csv`: composite population heterogeneity index after individual indicators were combined and standardized, arranged in the long format in anticipation of ad hoc data processing/manipulation
    - `individual data files/`
       - `(A) poverty index data/`
          - `(1) low_educ_attainment.csv`
