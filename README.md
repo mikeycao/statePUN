@@ -43,7 +43,7 @@ The repository contains two main folders:
          - `(3) urbanicity_interpolated.csv`: residing in urban areas (% of state population), post-interpolation, arranged in the long format 
          - `PRE_spline_interpolation_urban_wide`: pre-interpolated urbanicity 
 
-### A. Composition of the Poverty Index 
+### A. Composition and Data Sources of the Poverty Index 
 
 The poverty index consists of (1) low educational attainment, operationalized by the population of those at least 25 years old with less than a high school education (decimal %), (2) the Black resident population (decimal %), (3) state residents (as individuals) that are 138% at or below the federal poverty threshold (decimal %), (4) Temporary Assistance for Needy Families (TANF) caseloads (per 1000 state residents), and (5) GINI coefficients. All data extend between the years 2000 to 2018 for total national estimates and for all 50 U.S. states.
 
@@ -65,7 +65,7 @@ _Notes_: Caseload data was drawn from calendar year averages of the total number
 
 _Notes_: 0 means perfect income equality; 1 means perfect income inequality; GINIs from 2000 to 2005 were rounded to two decimal places.
 
-## B. Composition of Population Heterogeneity Index 
+## B. Composition and Data Sources of the Population Heterogeneity Index 
 
 The population heterogeneity index consists of (1) the foreign-born resident population (decimal %), (2) the Hispanic resident population (decimal %), and an interpolated indicator of resident populations living in urban areas (decimal %). 
 
