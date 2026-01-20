@@ -10,7 +10,7 @@ This repository is for making several compiled state-level sociodemographic indi
 
 The indicators track state-level socieconomic deprivation and population heterogeneity, and were originally compiled to support research estimating the conditional effects of mass punishment rates (e.g., incarceration/probation/parole) by accounting for commonly omitted confounders,[^1] but they have broad application for population-based studies of social problems and sociodemographic change more generally. The indicators can also act as key predicators or outcome variables ipso facto.  
 
-On their own, the panel datasets are intended as public tools for summarizing the demographic trajectories of individual states, how these state trajectories compare nationally and with each other across socioeconomic domains, and where disparities exist and what points in time.  
+On their own, the panel datasets are intended as public tools for summarizing the demographic trajectories of individual states, how these state trajectories compare nationally and with each other across socioeconomic domains, and where disparities exist at what points in time.  
 
 Since the individual state-level indicators are highly correlated with each other, introducing them separately into models may introduce unwelcome problems of multicollinearity. The individual-indicators are therefore leveraged as two combined scales: a poverty index (α = 0.73) and a population heterogeneity index (α = 0.88).
 
