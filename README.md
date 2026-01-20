@@ -22,7 +22,7 @@ All panel datasets are **balanced** and arranged in the **wide format** for unde
 
 The repository contains two main folders: 
 
-+ `code/`
++ `code/`: contains `R scripts` accompanying the data
    - `index reliability coefficient analysis.R`: code for reproducing reliability coefficients for the two indices 
    - `linear spline interpolation of urbanicity.R`: code for reproducing the interpolation of urbanicity (data/individual data files/(B) population heterogeneity index data/PRE_spline_interpolation_urban.csv)
 + `data/`
