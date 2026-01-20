@@ -8,20 +8,9 @@
 
 This repository is for making several compiled state-level sociodemographic indicators publicly available for use as panel datasets. Panel observations cover all 50 U.S states and the country as a whole, updated for the last two decades (2000 to 2018). 
 
-The indicators track state-level socieconomic deprivation and population heterogeneity, and were originally compiled to support research estimating the conditional effects of mass punishment rates (e.g., incarceration/probation/parole) by accounting for commonly omitted confounders,[^1] but the indicators can also act as key predicators or outcome variables ipso facto. Because the indicators track 
+The indicators track state-level socieconomic deprivation and population heterogeneity, and were originally compiled to support research estimating the conditional effects of mass punishment rates (e.g., incarceration/probation/parole) by accounting for commonly omitted confounders,[^1] but they have broad application for population-based studies of social problems and sociodemographic change more generally. The indicators can also act as key predicators or outcome variables ipso facto.  
 
-the trajectories of individual states, and how they compare nationally and with each other. 
-
-#racial inequalities in those differences 
-
-The indicators are well-suited for panel studies of social inequality across state populations, and were originally compiled as covariates to adjust for ommitted variable bias, but they can also act as key predicators and outcome variables ipso facto. track national too
-
-and represent panels of comprehensive of variables that other aspects of the criminal legal system, and/or 
-
-topics: policing, immmigration 
-
-DESCRIPTIVE 
-
+In addition, the panel datasets are intended as public tools for summarizing the demographic trajectories of individual states, how these state trajectories compare nationally and with each other across socioeconomic domains, and where disparities exist and what points in time.  
 
 Since the individual state-level indicators are highly correlated with each other, introducing them separately into models may introduce unwelcome problems of multicollinearity. The individual-indicators are therefore leveraged as two combined scales: a poverty index (α = 0.73) and a population heterogeneity index (α = 0.88).
 
