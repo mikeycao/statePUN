@@ -100,13 +100,9 @@ _Notes_: The CDE was [revamped](https://www.fbi.gov/news/press-releases/fbi-rele
 
 Analysis involving the poverty index and population heterogeneity index was undertaken using `R`. Mainly, `R` code is provided to analyze the reliability coefficients using Cronbach's alpha, and additional code that was used to implement the linear spline interpolation of urbanicity. 
 
-## Citing statePUN 
+## Using statePUN 
 
 `statePUN` is made available under a Creative Commons CC0 1.0 license, meaning it is dedicated to the public domain and may be freely used, shared, and modified. 
-
-Authors:
-
-Michael Cao. Author, maintainer. 
 
 Suggested citation:
 
