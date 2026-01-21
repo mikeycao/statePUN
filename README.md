@@ -5,7 +5,7 @@
 
 # statePUN: State-level panel covariates for estimating mass punishment and sociodemographic disparity, 2000–2018
 
-![low_ed_attainment_HD](https://github.com/user-attachments/assets/88f5732a-0e40-419c-8ae5-75f4f9aa4067)
+![low_ed_attainment_HD](https://github.com/user-attachments/assets/8b8ed08d-18c9-43ed-86e4-c5d64e539d4c)
 
 
 This repository is for making several compiled and standardized sociodemographic indicators  available for public use as state-level panel datasets. Panel observations cover all 50 U.S states and the country as a whole, updated for the last two decades (2000 to 2018). 
