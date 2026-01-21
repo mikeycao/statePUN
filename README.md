@@ -117,4 +117,4 @@ Cao, Michael. 2026. _statePUN: State-level panel covariates for estimating mass 
 ```
 ## License
 
-`statePUN` is made available under a Creative Commons CC0 1.0 license, meaning it is dedicated to the public domain and may be freely used, shared, and modified. For details see [LICENSE](LICENSE.md).
+`statePUN` is made available under a Creative Commons CC0 1.0 license, meaning it is dedicated to the public domain and may be freely used, shared, and modified without attribution. For details see [LICENSE](LICENSE.md).
