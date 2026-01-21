@@ -93,7 +93,7 @@ _Notes_: For the poverty index, z1 refers to low educational attainment; z2 refe
 
 ### State Crime Rates
 
-Additional indicators involving state crime offense rates are also included in the repository, given their collinearity with  
+Additional indicators involving state crime offense rates are also included in the repository, given their collinearity with collinearity with mass incarceration. Included are the crimes known and reported by state law enforcement organizations to the [FBI Uniform Crime Reporting Program (UCR)](https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/ucr):   
 
 
 
