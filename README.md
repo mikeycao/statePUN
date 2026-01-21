@@ -27,8 +27,8 @@ The repository contains two main folders:
    - `linear spline interpolation of urbanicity.R`: code for reproducing the interpolation of [urbanicity](data/individual%20data%20files/%28B%29%20population%20heterogeneity%20index%20data/PRE_spline_interpolation_urban.csv)
 + `data/`: harmonized sociodemographic panel data for all 50 U.S. states, 2000-2018
    - `combined data files/`: 
-      - `(A)_combined_poverty_index.csv`: composite poverty index after individual indicators were combined and standardized, arranged in the long format
-      - `(B)_combined_population_heterogeneity_index_with_urbanicity.csv`: composite population heterogeneity index after individual indicators were combined and standardized, arranged in the long format 
+      - `combined_poverty_index.csv`: composite poverty index after individual indicators were combined and standardized, arranged in the long format
+      - `combined_population_heterogeneity_index_with_urbanicity.csv`: composite population heterogeneity index after individual indicators were combined and standardized, arranged in the long format 
    - `individual data files/`: indicator panel datasets arranged for individual analysis
       - `(A) poverty index data/`: 
          - `(1) low_educational_attainment.csv`: low educational attainment (% of state population)
