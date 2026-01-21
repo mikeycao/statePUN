@@ -81,7 +81,7 @@ _Notes_: A variable recording Hispanic origin (hispan) from the U.S. Census/ACS 
 
 ## Combined Index Data 
 
-Two `.csv` files are included that provide a standardization (z-score transformation) of all individual indicators used to compile the poverty index and population heterogeneity index, as well as the compiled index value for each specific year and state. The `.csv` files are organized into a long-format to ease with data manipulation using statistical software. 
+Two `.csv` files are included that provide a standardization (z-score transformation) of all individual indicators combined to create the poverty index and population heterogeneity index, as well as the compiled index value for each specific year and state. The `.csv` files are organized into a long-format to ease with data manipulation using statistical software. 
 
 _Notes_: For the poverty index, z1 refers to low educational attainment; z2 refers to the Black population share; z3 refers to individual poverty threshold rates; z4 refers to TANF cases; z5 refers to GINI coefficients. For the population heterogeneity index, z1 refers to the foreign born population; z2 refers to the Hispanic population; z3 refers to urbanicity.
 
