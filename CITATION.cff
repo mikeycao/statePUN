@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+
+title: "statePUN: State-level panel covariates for estimating mass punishment and sociodemographic disparity, 2000–2018"
+
+authors:
+  - family-names: Cao
+    given-names: Michael
+
+type: dataset
+
+date-released: 2026-01
+
+repository-code: https://github.com/mikeycao/statePUN
+
+abstract: >
+  State-level panel covariates for estimating mass punishment and sociodemographic disparity, 2000–2018.
