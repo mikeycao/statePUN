@@ -26,22 +26,22 @@ The repository contains two main folders:
    - `index_reliability_coefficient_analysis.R`: code for reproducing reliability coefficients for the two indices 
    - `linear spline interpolation of urbanicity.R`: code for reproducing the interpolation of [urbanicity](data/individual%20data%20files/%28B%29%20population%20heterogeneity%20index%20data/PRE_spline_interpolation_urban.csv)
 + `data/`: harmonized sociodemographic panel data for all 50 U.S. states, 2000-2018
-   - `combined data files/`: 
+   - `combined_data_files/`: 
       - `(A)_combined_poverty_index.csv`: composite poverty index after individual indicators were combined and standardized, arranged in the long format
       - `(B)_combined_population_heterogeneity_index_with_urbanicity.csv`: composite population heterogeneity index after individual indicators were combined and standardized, arranged in the long format 
-   - `individual data files/`: indicator panel datasets arranged for individual analysis
-      - `(A) poverty index data/`: 
+   - `individual_data_files/`: indicator panel datasets arranged for individual analysis
+      - `(A)_poverty_index data/`: 
          - `(1)_low_educational_attainment.csv`: low educational attainment (% of state population)
          - `(2)_Black_population.csv`: Black population (% of state population) 
          - `(3)_population_poverty.csv`: below federal poverty threshold (% of state population)
          - `(4)_TANF.csv`: Temporary Assistance for Needy Families (TANF) caseloads (per 1000 state residents) 
          - `(5)_Gini_coefficients.csv`: Gini coefficients 
-      - `(B) population heterogeneity index data/`
+      - `(B)_population_heterogeneity_index_data/`
          - `(1)_foreign_born_population.csv`: foreign-born population (% of state population)
          - `(2)_Hispanic_population.csv`: Hispanic population (% of state population) 
          - `(3)_urbanicity_interpolated.csv`: residing in urban areas (% of state population), post-interpolation, arranged in the long format 
          - `PRE_spline_interpolation_urban_wide`: pre-interpolated urbanicity
-      - `additional indicators/`: supplementary folder containing additional (non-index) indicators covering state crime rates
+      - `additional_indicators/`: supplementary folder containing additional (non-index) indicators covering state crime rates
          - `(1)_homicide_rates.csv`: homicide rates (per 100,000 state residents)
          - `(2)_violent_crime_rates.csv`: violent crime rates (per 100,000 state residents)
          - `(3)_property_crime_rates.csv`: property crime rates (per 100,000 state residents) 
