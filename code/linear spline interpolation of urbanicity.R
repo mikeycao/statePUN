@@ -1,4 +1,4 @@
-#title: "linear spline interpolation of urbanicity"
+#title: "linear_spline_interpolation_of_urbanicity"
 #date: "2025-05-20"
 
 #R packages to be installed (if not already) and loaded
@@ -17,4 +17,5 @@ data_long_interpolated <- data_long %>%
   arrange(X1, Year)
 data_long_interpolated$Year <- as.numeric(sub("X", "", data_long_interpolated$Year))
 write.csv(data_long_interpolated, file = "linear_spline_interpolation_urbanicity.csv")
+
 
