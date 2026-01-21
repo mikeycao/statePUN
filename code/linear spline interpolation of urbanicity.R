@@ -18,7 +18,3 @@ data_long_interpolated <- data_long %>%
   arrange(X1, Year)
 data_long_interpolated$Year <- as.numeric(sub("X", "", data_long_interpolated$Year))
 write.csv(data_long_interpolated, file = "linear_spline_interpolation_urbanicity.csv")
-
-
-
-
