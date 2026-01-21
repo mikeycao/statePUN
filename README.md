@@ -7,7 +7,7 @@
 
 This repository is for making several compiled and standardized sociodemographic indicators  available for public use as state-level panel datasets. Panel observations cover all 50 U.S states and the country as a whole, updated for the last two decades (2000 to 2018). 
 
-The indicators track state-level socieconomic deprivation and population heterogeneity, and were originally compiled to support research estimating the conditional effects of mass punishment rates (e.g., incarceration/probation/parole) by accounting for commonly omitted confounders,[^1] but they have broad application for population-based studies of social problems and sociodemographic change more generally. The indicators can also act as key predicators or outcome variables ipso facto.  
+The main indicators track state-level socieconomic deprivation and population heterogeneity, and were originally compiled to support research estimating the conditional effects of mass punishment rates (e.g., incarceration/probation/parole) by accounting for commonly omitted confounders,[^1] but they have broad application for population-based studies of social problems and sociodemographic change more generally. The indicators can also act as key predicators or outcome variables ipso facto.  
 
 On their own, the panel datasets are intended as public tools for summarizing the demographic trajectories of individual states, how these state trajectories compare nationally and with each other across socioeconomic domains, and where disparities exist at what points in time.  
 
