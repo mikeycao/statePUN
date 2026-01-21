@@ -42,7 +42,7 @@ The repository contains two main folders:
          - `(2) Hispanic_population.csv`: Hispanic population (% of state population) 
          - `(3) urbanicity_interpolated.csv`: residing in urban areas (% of state population), post-interpolation, arranged in the long format 
          - `PRE_spline_interpolation_urban_wide`: pre-interpolated urbanicity
-      - `other indicators:state crime rates/`: some additional non-index indicators involving state crime rates
+      - `additional indicators`: supplementary folder containing additional (non-index) indicators focused on state crime rates
          - `(1) homicide_rates.csv`: homicide rates (per 100,000 state residents)
          - `(2) violent_crime_rates.csv`: violent crime rates (per 100,000 state residents)
          - `(3) property_crime_rates.csv`: property crime rates (per 100,000 state residents) 
