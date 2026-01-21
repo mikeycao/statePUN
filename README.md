@@ -102,5 +102,5 @@ Analysis involving the poverty index and population heterogeneity index was unde
 
 ## Citing statePUN 
 
-
+Cao, Michael. (2026 
 
